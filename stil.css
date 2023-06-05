@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: darkblue;
+	font-family:serif;
+	font-size: 16px;
+	line-height: 18px;
+	width: 650px;
+	background-color: antiquewhite;
+	padding: 20px;
+	opacity: 60%;
+
+}
+h2 {
+	font-family: sans-serif;
+	color: darkblue;
+}
+
+body {
+	background-image: url("Slike/Slika5.jpg");
+}
+
+a {
+	color: darkblue;
+	background-color: antiquewhite;
+	opacity: 60%;
+	padding: 5px;
+	line-height: 40px;
+	border: 1px solid #000000 ;
+}
+
+a:hover{
+	background-color: lightpink;
+}
+
+ol, ul {
+	color: white;
+}
+
+img {
+	height: 200px;
+}
